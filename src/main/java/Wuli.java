@@ -3,5 +3,6 @@ public class Wuli {
         System.out.println("物理学习资料");
         System.out.println("物理学习资料");
         System.out.println("物理学习资料");
+        System.out.println("aaaaa");
     }
 }
